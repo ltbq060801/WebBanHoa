@@ -1,0 +1,364 @@
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\WebQuanLyBanHoa.dll.config
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\WebQuanLyBanHoa.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\WebQuanLyBanHoa.pdb
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csc.exe
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csc.exe.config
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csc.rsp
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csi.exe
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csi.exe.config
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csi.rsp
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CodeAnalysis.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CSharp.Core.targets
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.Managed.Core.targets
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.Win32.Primitives.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.AppContext.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Collections.Immutable.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Console.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Diagnostics.StackTrace.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Globalization.Calendars.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.IO.Compression.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.IO.Compression.ZipFile.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.IO.FileSystem.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Net.Http.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Net.Sockets.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Reflection.Metadata.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Text.Encoding.CodePages.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Threading.Tasks.Extensions.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.ValueTuple.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Xml.ReaderWriter.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Xml.XmlDocument.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Xml.XPath.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Xml.XPath.XDocument.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\vbc.exe
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\vbc.exe.config
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\vbc.rsp
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\VBCSCompiler.exe
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\VBCSCompiler.exe.config
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Antlr3.Runtime.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\CaptchaMvc.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\EntityFramework.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\EntityFramework.SqlServer.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Microsoft.Web.Infrastructure.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Newtonsoft.Json.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\PagedList.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\PagedList.Mvc.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Helpers.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Mvc.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Optimization.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Razor.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.Deployment.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.Razor.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\WebGrease.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\CaptchaMvc.pdb
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\CaptchaMvc.xml
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\EntityFramework.xml
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\EntityFramework.SqlServer.xml
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\PagedList.xml
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\PagedList.Mvc.xml
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Helpers.xml
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Mvc.xml
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Optimization.xml
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Razor.xml
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.xml
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.Deployment.xml
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.Razor.xml
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Newtonsoft.Json.xml
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Antlr3.Runtime.pdb
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\obj\Debug\WebQuanLyBanHoa.csproj.AssemblyReference.cache
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\obj\Debug\WebQuanLyBanHoa.csproj.CoreCompileInputs.cache
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\obj\Debug\WebQuanLyBanHoa.csproj.CopyComplete
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\obj\Debug\WebQuanLyBanHoa.dll
+L:\HoangKhangNguyen\Term1_20212022\CodeWeb\Theory\Nhom5\WebQuanLyBanHoa\WebQuanLyBanHoa\obj\Debug\WebQuanLyBanHoa.pdb
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\WebQuanLyBanHoa.dll.config
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\WebQuanLyBanHoa.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\WebQuanLyBanHoa.pdb
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csc.exe
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csc.exe.config
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csc.rsp
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csi.exe
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csi.exe.config
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csi.rsp
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.AppContext.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Collections.Immutable.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Console.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Globalization.Calendars.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.IO.Compression.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.IO.FileSystem.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Net.Http.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Net.Sockets.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.ValueTuple.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Xml.XPath.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\vbc.exe
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\vbc.exe.config
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\vbc.rsp
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\VBCSCompiler.exe
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\VBCSCompiler.exe.config
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Antlr3.Runtime.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\CaptchaMvc.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\EntityFramework.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\EntityFramework.SqlServer.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Microsoft.Web.Infrastructure.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Newtonsoft.Json.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\PagedList.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\PagedList.Mvc.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Helpers.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Mvc.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Optimization.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Razor.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.Deployment.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.Razor.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\WebGrease.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\CaptchaMvc.pdb
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\CaptchaMvc.xml
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\EntityFramework.xml
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\EntityFramework.SqlServer.xml
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\PagedList.xml
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\PagedList.Mvc.xml
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Helpers.xml
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Mvc.xml
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Optimization.xml
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Razor.xml
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.xml
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.Deployment.xml
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.Razor.xml
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Newtonsoft.Json.xml
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Antlr3.Runtime.pdb
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\obj\Debug\WebQuanLyBanHoa.csproj.AssemblyReference.cache
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\obj\Debug\WebQuanLyBanHoa.csproj.CoreCompileInputs.cache
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\obj\Debug\WebQuanLyBanHoa.csproj.CopyComplete
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\obj\Debug\WebQuanLyBanHoa.dll
+D:\Workspace\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\obj\Debug\WebQuanLyBanHoa.pdb
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\WebQuanLyBanHoa.dll.config
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\WebQuanLyBanHoa.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\WebQuanLyBanHoa.pdb
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csc.exe
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csc.exe.config
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csc.rsp
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csi.exe
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csi.exe.config
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csi.rsp
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.Managed.Core.targets
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.AppContext.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Collections.Immutable.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Console.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Globalization.Calendars.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.IO.Compression.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.IO.FileSystem.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Net.Http.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Net.Sockets.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Reflection.Metadata.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.ValueTuple.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Xml.XmlDocument.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Xml.XPath.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\vbc.exe
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\vbc.exe.config
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\vbc.rsp
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\VBCSCompiler.exe
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\VBCSCompiler.exe.config
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Antlr3.Runtime.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\CaptchaMvc.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\EntityFramework.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\EntityFramework.SqlServer.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Facebook.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Microsoft.Web.Infrastructure.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Newtonsoft.Json.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\PagedList.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\PagedList.Mvc.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Helpers.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Mvc.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Optimization.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Razor.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.Deployment.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.Razor.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\WebGrease.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\CaptchaMvc.pdb
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\CaptchaMvc.xml
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\EntityFramework.xml
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\EntityFramework.SqlServer.xml
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Facebook.xml
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\PagedList.xml
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\PagedList.Mvc.xml
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Helpers.xml
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Mvc.xml
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Optimization.xml
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Razor.xml
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.xml
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.Deployment.xml
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.Razor.xml
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Newtonsoft.Json.xml
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Antlr3.Runtime.pdb
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\obj\Debug\WebQuanLyBanHoa.csproj.AssemblyReference.cache
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\obj\Debug\WebQuanLyBanHoa.csproj.CoreCompileInputs.cache
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\obj\Debug\WebQuanLyBanHoa.csproj.CopyComplete
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\obj\Debug\WebQuanLyBanHoa.dll
+D:\workspace\Web ASP.Net\NHOM5_BAOCAOCUOIKY\WebQuanLyBanHoa\WebQuanLyBanHoa\obj\Debug\WebQuanLyBanHoa.pdb
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\WebQuanLyBanHoa.dll.config
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\WebQuanLyBanHoa.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\WebQuanLyBanHoa.pdb
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csc.exe
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csc.exe.config
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csc.rsp
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csi.exe
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csi.exe.config
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\csi.rsp
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.Managed.Core.targets
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.AppContext.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Collections.Immutable.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Console.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Globalization.Calendars.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.IO.Compression.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.IO.FileSystem.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Net.Http.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Net.Sockets.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Reflection.Metadata.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.ValueTuple.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Xml.XmlDocument.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Xml.XPath.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\vbc.exe
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\vbc.exe.config
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\vbc.rsp
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\VBCSCompiler.exe
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\roslyn\VBCSCompiler.exe.config
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Antlr3.Runtime.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\CaptchaMvc.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\EntityFramework.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\EntityFramework.SqlServer.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Facebook.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Microsoft.Web.Infrastructure.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Newtonsoft.Json.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\PagedList.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\PagedList.Mvc.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Helpers.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Mvc.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Optimization.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Razor.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.Deployment.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.Razor.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\WebGrease.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\CaptchaMvc.pdb
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\CaptchaMvc.xml
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\EntityFramework.xml
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\EntityFramework.SqlServer.xml
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Facebook.xml
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\PagedList.xml
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\PagedList.Mvc.xml
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Helpers.xml
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Mvc.xml
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Optimization.xml
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.Razor.xml
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.xml
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.Deployment.xml
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\System.Web.WebPages.Razor.xml
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Newtonsoft.Json.xml
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Antlr3.Runtime.pdb
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\obj\Debug\WebQuanLyBanHoa.csproj.CoreCompileInputs.cache
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\obj\Debug\WebQuanLyBanHoa.csproj.CopyComplete
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\obj\Debug\WebQuanLyBanHoa.dll
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\obj\Debug\WebQuanLyBanHoa.pdb
+D:\workspace\Web ASP.Net\DoAnCoSo-WebBanHoa\WebQuanLyBanHoa\WebQuanLyBanHoa\obj\Debug\WebQuanLyBanHoa.csproj.AssemblyReference.cache
